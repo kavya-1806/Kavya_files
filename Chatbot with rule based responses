@@ -8,11 +8,11 @@ class RuleBot:
     
     
     random_question = (
-        "why are you here?",
-        "Are there many humans like you?",
-        "what do you consume for sustence?",
-        "Is there Intelligent life on this planet?",
-        "does Earth have a leader ?"
+        "where are you from?",
+        "what do you like?",
+        "what do you consume for living?",
+        "how is the life on your planet?",
+        "What is the good profession on your planet?"
     )
     
     def __init__(self):
